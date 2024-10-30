@@ -9,6 +9,6 @@ entries:
     name: cloudbeaver
     type: application
     urls:
-    - https://andreaswillems.github.io/cloudbeaver-helm-chart/cloudbeaver-1.0.0.tgz
+    - cloudbeaver-1.0.0.tgz
     version: 1.0.0
 generated: "2024-10-30T16:29:34.427331+01:00"
